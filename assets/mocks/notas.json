@@ -1,21 +1,49 @@
 [
     {
-        "versao": "1.0.0",
-        "data_lancamento": "2022-07-15T18:34:29.240Z",
+        "versao": "0.0.1.DEMO",
+        "data_lancamento": "2024-04-24",
         "novas_features": [
-            "string1",
-            "tring 2",
-            "ign 3"
+            "Módulo administrativo para criação, controle e gestão de Lojas",
+            "Módulo operacional para criação, controle e gestão de Despesas",
+            "Módulo operacional para criação, controle e gestão de Serviços",
+            "Módulo operacional para criação, controle e gestão de Produtos",
+            "Módulo operacional para criação, controle e gestão de Itens de planos & Planos",
+            "Módulo operacional para criação, controle e gestão de Estoques",
+            "Módulo de RH para criação, controle e gestão de Cargos",
+            "Módulo de RH para criação, controle e gestão de Áreas",
+            "Módulo de RH para criação, controle e gestão de Benefícios",
+            "Módulo de RH para criação, controle e gestão de Patrimônios",
+            "Módulo de Pessoal para criação, controle e gestão de Colaboradores",
+            "Módulo de Pessoal para criação, controle e gestão de Prestadores de Serviço",
+            "Módulo de Pessoal para criação, controle e gestão de Usuários de Sistema",
+            "Módulo de Cliente para criação, controle e gestão dos mesmos",
+            "Módulo Financeiro para relatórios, controle e gestão de Transações",
+            "Módulo Financeiro para relatórios, controle e gestão de Pedidos",
+            "Módulo Financeiro para relatórios, controle e gestão de Prestações de Serviço",
+            "Módulo de Fluxo de Pagamento criação, controle, gestão e sistematização de Solicitações e Pagamentos",
+            "Módulo de Carga de Dados para rápida importação de Produtos e Estoques",
+            "Módulo de PDV para controle e venda de produtos",
+            "Módulo de Gestão de Serviços para criação, controle e gestão de Prestações de Serviços",
+            "Módulo de Assinaturas para criação, controle e gestão de Assinaturas",
+            "Módulo de Perfil para controle, personalização e visão estratégica de dashboard e resultados",
+            "Módulo de Agenda para criação, controle e gestão de Compromissos, Eventos e Serviços Agendados",
+            "Módulo de E-mail para comunicação interna e sistematização dos envios",
+            "Módulo de Autorização com acesso via PERFIL ou Autorização Explícita",
+            "Módulo de Dashboards de vendas dos Funcionários",
+            "Módulo de Dashboards de compras dos Clientes"
         ],
         "melhorias": [
-            "string1",
-            "tring 2",
-            "ign 3"
+            "Designer moderno e responsivo, para usar em qualquer dispositivo",
+            "Cerca de 20 (vinte) temas CLAROS",
+            "Cerca de 20 (vinte) temas ESCUROS",
+            "Notificações em tempo real pelo próprio sistema",
+            "Auditoria em cima do Fluxo de Aprovação e Solicitações",
+            "Auditoria em cima do Estoque",
+            "Auditoria em cima dos Produtos",
+            "Conexão em tempo real"
         ],
         "correcoes": [
-            "string1",
-            "tring 2",
-            "ign 3"
+            "N/A"
         ]
     }
 ]
