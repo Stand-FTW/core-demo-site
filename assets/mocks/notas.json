@@ -1,5 +1,20 @@
 [
     {
+        "versao": "1.0.1.DEMO",
+        "data_lancamento": "2024-05-15",
+        "novas_features": [
+            "Módulo administrativo para criação, controle e gestão de Empresas",
+            "Módulo operacional para criação, controle e gestão de Contratos",
+            "Módulo operacional para criação, controle e gestão de Projetos"
+        ],
+        "melhorias": [
+            "Melhorias gerais de UI/UX"
+        ],
+        "correcoes": [
+            "N/A"
+        ]
+    },
+    {
         "versao": "0.0.1.DEMO",
         "data_lancamento": "2024-04-24",
         "novas_features": [
