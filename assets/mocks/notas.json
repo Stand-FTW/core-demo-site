@@ -1,6 +1,6 @@
 [
     {
-        "versao": "1.0.1.DEMO",
+        "versao": "1.0.2.DEMO",
         "data_lancamento": "2024-05-15",
         "novas_features": [
             "Módulo administrativo para criação, controle e gestão de Empresas",
@@ -15,7 +15,7 @@
         ]
     },
     {
-        "versao": "0.0.1.DEMO",
+        "versao": "1.0.1.DEMO",
         "data_lancamento": "2024-04-24",
         "novas_features": [
             "Módulo administrativo para criação, controle e gestão de Lojas",
